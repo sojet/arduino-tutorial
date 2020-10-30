@@ -8,6 +8,14 @@ If you have any problem, feel free to open an issue in the GitHub repository.
 ## Recommended tutorial for beginners
 For the beginners, you are recommended to read https://arduinogetstarted.com/tutorials/arduino-led-blink .
 
+## Laboratory Part
+Here is 3 parts provided for you to complete
+Part 1: Simple I/O
+Part 2: Traffic Light and Servo
+Part 3: Serial Communication
+Part 1 and Part 2 are required for all new members to complete. 
+If you are willing to be responsible for electronics and programming division in CUHK Robocon, it is a must to complete Part 3. Otherwise, it is optional for you to complete Part 3.
+
 ## 01_blink.ino
 **The output for this programme:**
 1. turn an LED for one second, then off for one second repeatedly 
